@@ -1,0 +1,6 @@
+X crear matriz para asientos
+X cada elemento de la matriz tiene que contener un objeto que refleje la informacion del asiento
+X crear funcion para actualizar por defecto los elementos de la matriz
+X crear funcion para agregar pasajero los elementos de la matriz
+X Crear funcion para mostrar la lista de pasajeros
+
